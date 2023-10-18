@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### [Connect with me 💬](https://bio.link/jalajb)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
 <!--
 **Jalaj028/Jalaj028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
