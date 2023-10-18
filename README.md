@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### [Connect with me 💬](https://bio.link/jalajb)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jalaj028.Jalaj028)
+[![An image of @jalaj028's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jalaj028)](https://holopin.io/@jalaj028)
 <!--
 **Jalaj028/Jalaj028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
