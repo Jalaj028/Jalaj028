@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### [Connect with me 💬](https://bio.link/jalajb)
 <!--
 **Jalaj028/Jalaj028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
