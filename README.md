@@ -4,8 +4,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jalaj028&&show_icons=true&title_color=54d1ff&icon_color=ff860d&text_color=F5F5F5&bg_color=1b1b1b" height=150em>
-
 ### My Holopin Profile :
 [![An image of @jalaj028's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jalaj028)](https://holopin.io/@jalaj028)
 <!--
