@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [Connect with me 💬](https://bio.link/jalajb)
+### [Connect with me 💬](https://jalaj-bhatt.vercel.app)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jalaj028.Jalaj028)
 
 ---
